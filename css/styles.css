@@ -1,0 +1,109 @@
+*
+{
+	box-sizing: border-box;
+}
+body
+{
+	font-family: "Montserrat";
+}
+#title,.section-3,.seclast
+{
+	background-color: #ff4c68;
+	color: white;
+}
+h1
+{
+	font-size: 4rem;
+	line-height: 1.5;
+	font-weight: 900;
+}
+.container-fluid
+{
+	padding: 3% 15%;
+	padding-top: 0;
+}
+#man
+{
+	color: white;
+	font-size: 3rem;
+	font-family: "Ubuntu";
+}
+.list
+{
+	padding-top: 2.5rem;
+	color: white;
+	text-align: center;
+	font-size: 1.2rem;
+	padding: 0px 18px;
+}
+.navbar
+{
+	padding: 2.5rem 0;
+	padding-bottom: 5rem;
+}
+
+.download-button
+{
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+.rotated
+{
+	width: 60%;
+    transform: rotate(25deg);
+}
+.icons
+{
+	font-size: 5em;
+	color:  #ff4c68;
+}
+.second-section
+{
+	text-align: center;
+	margin: 100px 0px;
+}
+h3
+{
+	margin: 20px 0px 10px 0px;
+	font-weight: 700;
+}
+.box
+{
+	padding: 5%;
+}
+h2
+{
+	text-align: center;
+	font-weight: 700;
+	font-size: 3rem;
+	padding: 40px 2em;
+}
+.imgs3
+{
+	padding: 5%;
+}
+.dog
+{
+	border-radius: 100%;
+	width: 10%;
+}
+#pricing p
+{
+	text-align: center;
+}
+.sec4
+{
+	text-align: center;
+    margin: 0 auto;
+    border: 1px;
+	border-color: grey;
+}
+.seclast
+{
+	text-align: center;
+	padding: 50px;
+}
+footer
+{
+	text-align: center;
+}
